@@ -1,0 +1,16 @@
+.parallax{
+    /*The image used for our background*/
+    background-image: url("../images/araki.png");
+
+    /*Create parallax scrolling effect*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.title-card{
+    height: 250px;
+    width: auto;
+}
