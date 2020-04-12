@@ -101,8 +101,12 @@ align-items: center;
 }
 
 ul{
-list-style-type: circle;
 margin-left: 6rem;
+line-height: 4rem;
+}
+
+time{
+font-weight: bold;
 }
 
 
