@@ -64,9 +64,11 @@ background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 25
 blockquote{
 border-left: 5px solid #CCC;
 padding-left: 1rem;
+margin: 0 auto;
 }
 
 blockquote, p, ul{
+max-width: 70vw;
 font-size: 1.65rem;
 line-height: 2.85rem;
 }
@@ -109,7 +111,7 @@ align-items: center;
 }
 
 ul{
-margin-left: 6rem;
+margin: 0 auto;
 line-height: 4rem;
 }
 
@@ -149,6 +151,10 @@ margin-top: 2.5rem;
 
 #tribute-info{
   padding: 3.5rem;
+}
+
+#image{
+  width: 50vw;
 }
 
 .timeline{
